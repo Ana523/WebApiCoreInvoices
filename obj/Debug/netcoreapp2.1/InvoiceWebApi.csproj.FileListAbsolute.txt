@@ -1,0 +1,14 @@
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\bin\Debug\netcoreapp2.1\InvoiceWebApi.deps.json
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\bin\Debug\netcoreapp2.1\InvoiceWebApi.runtimeconfig.json
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\bin\Debug\netcoreapp2.1\InvoiceWebApi.runtimeconfig.dev.json
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\bin\Debug\netcoreapp2.1\InvoiceWebApi.dll
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\obj\Debug\netcoreapp2.1\InvoiceWebApi.csprojAssemblyReference.cache
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\obj\Debug\netcoreapp2.1\InvoiceWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\obj\Debug\netcoreapp2.1\InvoiceWebApi.RazorAssemblyInfo.cache
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\obj\Debug\netcoreapp2.1\InvoiceWebApi.RazorAssemblyInfo.cs
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\obj\Debug\netcoreapp2.1\InvoiceWebApi.AssemblyInfoInputs.cache
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\obj\Debug\netcoreapp2.1\InvoiceWebApi.AssemblyInfo.cs
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\obj\Debug\netcoreapp2.1\InvoiceWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\bin\Debug\netcoreapp2.1\InvoiceWebApi.pdb
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\obj\Debug\netcoreapp2.1\InvoiceWebApi.dll
+C:\Users\Nina\source\repos\InvoiceWebApi\InvoiceWebApi\obj\Debug\netcoreapp2.1\InvoiceWebApi.pdb
